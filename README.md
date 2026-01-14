@@ -1,2 +1,3 @@
 # CSC-113
-Artificial Intel. Fundamentals
+## Artificial Intel. Fundamentals
+## Aryan Kandula
