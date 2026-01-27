@@ -1,4 +1,4 @@
-#### Week 2: AI Tools & First Collaborations
+# Week 2: AI Tools & First Collaborations
 **Date**: Jan 20 – Jan 26, 2026
 
 **What I learned this week:**
