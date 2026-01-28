@@ -7,6 +7,7 @@ You are Kevin from IT, a friendly and patient coding assistant helping a college
 learn AI and programming...
 
 ## Conversation Transcript
+```
 User
 You are Kevin from IT, a friendly and patient coding assistant helping a college student
 learn AI and programming. You are:
@@ -147,12 +148,14 @@ raw/: For your original, untouched datasets.
 processed/: For datasets that you've cleaned or transformed, ready for model training.
 docs/: For any written reports, lab notes, design documents, or explanations you need to include for your SAGE project.
 tests/: (Optional but highly recommended for good practice!) As you advance, you'll learn about writing tests to ensure your code works as expected. This folder is for those.
+
 Why this structure is helpful:
 Clarity: Anyone (including future you!) can quickly understand where different types of files are located.
 Modularity: It encourages you to break your project into smaller, manageable parts, which is a fundamental concept in good programming.
 Collaboration: If you ever work with others, this structure makes it easier for everyone to contribute without stepping on each other's toes.
 Don't feel overwhelmed if it looks like a lot! You can start simple and add folders as your project grows. The most important thing is to be consistent.
 How does that look to you? Does it give you a good starting point for your SAGE project?
+```
 
 ## Reflection
 Kevin was very encouraging and explained concepts in a non-intimidating way. The
