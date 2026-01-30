@@ -43,7 +43,6 @@ I am still learning how to balance using AI for guidance versus solving problems
 I will use SAGE primarily as a planning, clarification, and reflection tool — helping me break down assignments, confirm my understanding, and improve documentation rather than using it as a shortcut for answers.
 
 ### Track B: Prompt Crafting Examples
-
 I experimented with prompt versions and documented how refining the wording,
 context, and constraints improved AI output quality (see
 `week-02-sage/track-b-prompt-experiments.md`).
