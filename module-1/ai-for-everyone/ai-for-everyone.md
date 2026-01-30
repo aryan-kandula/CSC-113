@@ -16,4 +16,4 @@ showing progress. Quizzes are optional for free learners and were not required f
 
 ## Proof of Completion (Module 1)
 
-![Module 1 Progress Screenshot](ai-for-everyone/module-1-progress.png)
+![Module 1 Progress Screenshot](module-1-progress.png)
