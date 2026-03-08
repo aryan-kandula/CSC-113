@@ -53,7 +53,10 @@
 Yes, in tests 2 and 3 — the two places where user knowledge was clearly demonstrated. The bot stopped resetting to zero after the student established their level, which was the exact behavior being targeted. Test 1 was unchanged, which was expected since the fix only applies after the first exchange.
 
 **What else changed?**
-The bot became slightly less funny. Part of what made OverExplainerBot so consistently ridiculous in H.2.1 was that it was completely immune to feedback — nothing could stop it. Version 2 is still annoying on first contact, but it does eventually learn, which makes it feel a little more like a forgivable quirk than a genuine dysfunction. The comedy of the "I'll skip the intro — anyway, here's the intro" moment is partially gone.
+The bot became slightly less funny. Part of what made OverExplainerBot so consistently ridiculous in H.2.1 was that it was completely immune to feedback — nothing could stop it. Version 2 is still annoying on first contact, but it does eventually learn, which makes it feel like a forgivable quirk rather than a genuine dysfunction. The comedy of the "I'll skip the intro — anyway, here's the intro" moment is partially gone.
+
+**Unintended consequences:**
+The fix introduced a new ambiguity: the bot now has to judge whether a follow-up question "demonstrates knowledge." In testing, it made that call correctly — a specific follow-up about alliances was treated as proof the student knew the term. But a vague follow-up like "can you explain more?" could easily be misread as demonstrated knowledge, causing the bot to skip context a genuinely confused student actually needed. The fix solved the problem for confident students and may have created a new edge case for uncertain ones.
 
 **Is it still "your" bot?**
 Mostly yes. It still over-explains on first questions, still can't resist one last round of context even when asked to stop, and still defines new concepts whether you want it to or not. The core personality is intact — it just has a ceiling now instead of running forever.
