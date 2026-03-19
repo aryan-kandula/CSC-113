@@ -35,3 +35,9 @@ CSC-113/
 ├── bad-bot-prompt.md
 ├── better-bot-prompt.md
 └── better-bot-report.md
+
+## 📌 Project Planning
+
+Planning and idea tracking is managed through GitHub Issues.
+
+➡️ See: https://github.com/aryan-kandula/CSC-113/issues/11
