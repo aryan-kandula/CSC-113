@@ -35,6 +35,7 @@ CSC-113/
 ├── bad-bot-prompt.md
 ├── better-bot-prompt.md
 └── better-bot-report.md
+```
 
 ## 📌 Project Planning
 
